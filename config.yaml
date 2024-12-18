@@ -1,0 +1,12 @@
+project:
+  name: NSD COCO Joint Project
+  author: Chuncheng Zhang
+  date: 2024-12-26
+  version: 0.0
+
+coco:
+  annotations: './nsd/annotations'
+
+nsd:
+  stimInfoCSV: './nsd/nsd_stim_info_merged.csv'
+  shared1000Dir: './nsd-shared1000/'
